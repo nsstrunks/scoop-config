@@ -8,7 +8,7 @@ concfg export console-backup.json
 confg import solarized.json small
 
 pshazz config editor subl
-pshazz get https://raw...github
+pshazz get https://raw.githubusercontent.com/nsstrunks/scoop-config/master/pshazz/nessy.json
 pshazz use nessy
 
 
