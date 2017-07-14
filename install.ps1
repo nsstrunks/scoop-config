@@ -1,3 +1,9 @@
+#This is an installation and configuration script for Scoop - https://github.com/lukesampson/scoop
+
+#Install Scoop
+set-executionpolicy remotesigned -s cu
+iex (new-object net.webclient).downloadstring('https://get.scoop.sh')
+
 # Add extras repo
 scoop install 7zip git-with-openssh
 scoop bucket add extras
