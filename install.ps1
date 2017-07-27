@@ -19,4 +19,4 @@ pshazz use nessy
 
 
 #Basic tools
-scoop install sublime-text oraclejdk cloudfoundry-cli idea sqlitebrowser tomcat busybox curl cacert maven nodejs yarn
+scoop install sublime-text oraclejdk cloudfoundry-cli idea sqlitebrowser tomcat busybox curl cacert maven nodejs yarn python
